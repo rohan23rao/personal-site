@@ -19,7 +19,7 @@ const SideBar = () => (
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I like building things.
+      <p>Hi, I&apos;m Saatvik. I like writing essays about race.
         I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
         the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
         at <a href="https://matroid.com">Matroid</a>
