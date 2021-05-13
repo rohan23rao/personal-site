@@ -12,8 +12,8 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael.l.dangelo@gmail.com">michael.l.dangelo@gmail.com</a></p>
+        <h2>Saativk Amravathi</h2>
+        <p><a href="mailto:saatvikamravathi@sfhs.com">saatvikamravathi@sfhs.com</a></p>
       </header>
     </section>
 
@@ -24,8 +24,8 @@ const SideBar = () => (
         the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
         at <a href="https://matroid.com">Matroid</a>
         , <a href="https://planet.com">Planet</a>
-        , <a href="https://planetaryresources.com">Planetary Resources</a>
-        , <a href="https://facebook.com">Facebook</a>
+        , <a href="https://home.howard.edu/">Howard University</a>
+        , <a href="https://marvel.fandom.com/wiki/Wakanda">Wakanda</a>
         , and <a href="https://seds.org">SEDS</a>.
       </p>
       <ul className="actions">
