@@ -13,8 +13,7 @@ const Index = () => (
         <div className="title">
           <h2 data-testid="heading"><Link to="/">About this site</Link></h2>
           <p>
-            A beautiful, responsive, statically-generated,
-            react application written with modern Javascript.
+            This is my personal site created with ReactJS.
           </p>
         </div>
       </header>
@@ -25,7 +24,7 @@ const Index = () => (
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
       </p>
-      <p> Source available <a href="https://github.com/mldangelo/personal-site">here</a>.</p>
+      <p> Source available <a href="https://github.com/rohan23rao/personal-site">here</a>.</p>
     </article>
   </Main>
 );

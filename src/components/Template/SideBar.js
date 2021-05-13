@@ -12,21 +12,16 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Saativk Amravathi</h2>
-        <p><a href="mailto:saatvikamravathi@sfhs.com">saatvikamravathi@sfhs.com</a></p>
+        <h2>Rohan Rao</h2>
+        <p><a href="mailto:rohan23rao@gmail.com">rohan23rao@gmail.com</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Saatvik. I like writing essays about race.
-        I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni, and
-        the co-founder and CTO of <a href="https://arthena.com">Arthena</a>. Before Arthena I was
-        at <a href="https://matroid.com">Matroid</a>
-        , <a href="https://planet.com">Planet</a>
-        , <a href="https://home.howard.edu/">Howard University</a>
-        , <a href="https://marvel.fandom.com/wiki/Wakanda">Wakanda</a>
-        , and <a href="https://seds.org">SEDS</a>.
+      <p>Hi, I&apos;m Rohan. I a high school student in the Silicon Valley.
+        I am a <a href="https://sfhs.com/">Saint Francis High School</a> Student.
+        I am very interested Computer Science, Machine Learning, and Music.
       </p>
       <ul className="actions">
         <li>
@@ -37,7 +32,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Rohan Rao <Link to="/">rohanrao.com</Link>.</p>
     </section>
   </section>
 );
