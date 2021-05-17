@@ -9,6 +9,26 @@ const positions = [
       'Helped kids improve in the fundamentals of tennis, including hand-eye coordination, racket motion, and movement.',
     ],
   },
+  {
+    company: 'Mountain View Tennis',
+    position: 'Coach',
+    link: 'https://www.mountainviewtennis.net/',
+    daterange: 'June 2019 - Present',
+    points: [
+      'Coached Rally Ball I - III in Mountain View Tennis during the summers of 2019, 2020, and 2021.',
+      'Helped kids improve in the fundamentals of tennis, including hand-eye coordination, racket motion, and movement.',
+    ],
+  },
+  {
+    company: 'Mountain View Tennis',
+    position: 'Coach',
+    link: 'https://www.mountainviewtennis.net/',
+    daterange: 'June 2019 - Present',
+    points: [
+      'Coached Rally Ball I - III in Mountain View Tennis during the summers of 2019, 2020, and 2021.',
+      'Helped kids improve in the fundamentals of tennis, including hand-eye coordination, racket motion, and movement.',
+    ],
+  },
 ];
 
 // {

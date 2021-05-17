@@ -3,7 +3,7 @@ const degrees = [
     school: 'Saint Francis High School',
     degree: 'High School Diploma',
     link: 'https://sfhs.com',
-    year: 2016,
+    year: 2022,
   },
 ];
   // const degrees = [
